@@ -12,4 +12,9 @@ To install the mapserver, it is needed in the host machine
 - Docker-compose
 
 ## Installation
-To install the mapserver, simply run ./run.sh
+To install the mapserver (in linux or mac), simply run bash `run_tileserver.sh`
+
+Then, to run it simply use `docker-compose up -d` to start
+and `docker-compose down` or `docker-compose stop` to stop the service
+
+The `docker-compose up` command also build it. So if you are in windows, you can just execute those commands
