@@ -24,7 +24,7 @@ The `docker-compose up` command also build it. So if you are in windows, you can
 
 Vector and raster maps with GL styles. Server-side rendering by Mapbox GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 
-For this repository, we are using the official image of maptiler/tileserver-gl in ![Docker Hub](https://hub.docker.com/r/maptiler/tileserver-gl)
+For this repository, we are using the official image of maptiler/tileserver-gl in [Docker Hub](https://hub.docker.com/r/maptiler/tileserver-gl)
 
 ## Documentation
 You can read full documentation of this project at https://tileserver.readthedocs.io/
